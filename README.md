@@ -10,7 +10,7 @@ Out-of-bounds calls often require referees to review video footage at courtside 
 - **Dataset**: 20 real game clips from Golden State Warriors games challenges (courtesy to the official NBA website)
 
 ## Results
-- **85% accuracy** across 4 folds (4-fold CV)
+- **~80% accuracy** across 4 folds (accuracy variating from 70%-90% depending on random initialization)
 - Trained on only 15 videos per fold
 - Handles different jersey colors and game scenarios
 
