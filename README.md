@@ -39,9 +39,6 @@ to any basketball video dataset.
 pip install -r requirements.txt
 \`\`\`
 
-## Usage
-See `Basketball_OOB_Detection.ipynb` for complete pipeline.
-
 ## Future Work
 - Expand to all NBA teams
 - Expand dataset
